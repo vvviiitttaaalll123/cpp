@@ -1,3 +1,4 @@
+#include<iostream.h>
 
 int main()                            // Most important part of the program!
 {
