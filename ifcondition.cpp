@@ -1,7 +1,4 @@
-#include <iostream>   
- 
-using namespace std;
-         
+
 int main()                            // Most important part of the program!
 {
   int age;                            // Need a variable...
